@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Tete_robot.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.92695271"
+     inkscape:cx="319.24022"
+     inkscape:cy="382.77462"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1074"
+     inkscape:window-height="1024"
+     inkscape:window-x="-9"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect10"
+       style="fill:none;stroke:#ff0000;stroke-width:2.88378;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 93.800781 39.236328 C 63.572471 39.236328 39.236328 63.572471 39.236328 93.800781 L 39.236328 249.24023 C 39.236328 279.46855 63.572471 303.80469 93.800781 303.80469 L 95.929688 303.80469 L 95.929688 326.48047 L 284.90625 326.48047 L 284.90625 303.80469 L 360.49609 303.80469 L 360.49609 326.48047 L 549.47266 326.48047 L 549.47266 303.80469 L 551.60352 303.80469 C 581.83184 303.80469 606.16602 279.46855 606.16602 249.24023 L 606.16602 93.800781 C 606.16602 63.572471 581.83184 39.236328 551.60352 39.236328 L 93.800781 39.236328 z "
+       transform="scale(0.26458333)" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.781;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path31"
+       cx="72.381721"
+       cy="25.771999"
+       rx="7.9912243"
+       ry="8.3815002" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.781;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path31-6"
+       cx="98.381943"
+       cy="25.771999"
+       rx="7.9912243"
+       ry="8.3815002" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.763;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect871"
+       width="33"
+       height="33"
+       x="68.881721"
+       y="39.381512"
+       ry="0" />
+  </g>
+</svg>
