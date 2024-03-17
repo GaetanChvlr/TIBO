@@ -29,10 +29,10 @@ Présentation à des élèves de primaire et fin du projet en Octobre 2022.
 - Jouer des partitions musicales via son buzzer
 
 ## Auteurs
-- Antoine K.
-- Paul R.
-- Alexandre V.
-- Gaëtan C.
+- Antoine KOEBEL
+- Paul ROGER-DAUVERGNE
+- Alexandre VIEU
+- Gaëtan CHEVALIER
 
 ## Galerie
 
